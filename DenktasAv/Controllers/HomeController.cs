@@ -60,5 +60,11 @@ namespace DenktasAv.Controllers
         {
             return View();
         }
+
+        [Route("hizmetlerimiz")]
+        public ActionResult Hizmetlerimiz()
+        {
+            return View();
+        }
     }
 }
