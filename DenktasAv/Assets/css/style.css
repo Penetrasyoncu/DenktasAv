@@ -3938,9 +3938,9 @@ only screen and (                min-resolution: 2dppx) {
 .footer-link {
     display: inline-block;
     position: relative;
-    color: #858e97;
+    color: #FFFFFF;
 }
 
-.footer-link:hover {
-    color: #fff;
-}
+	.footer-link:hover {
+		color: #858e97;
+	}
