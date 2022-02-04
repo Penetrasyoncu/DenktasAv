@@ -215,6 +215,7 @@
     <Content Include="Assets\header-style2.html" />
     <Content Include="Assets\header-style3.html" />
     <Content Include="Assets\history.html" />
+    <Content Include="Assets\images\allimages\15.yil_tecrube.png" />
     <Content Include="Assets\images\allimages\15yil_tecrube.png" />
     <Content Include="Assets\images\allimages\asli-logo-denktas.png" />
     <Content Include="Assets\images\allimages\av-pinar-denktas.jpeg" />
@@ -223,6 +224,7 @@
     <Content Include="Assets\images\allimages\denktas-logo-1.png" />
     <Content Include="Assets\images\allimages\denktas-logo-2.png" />
     <Content Include="Assets\images\allimages\logo-denktas.png" />
+    <Content Include="Assets\images\allimages\Pinar_Denktas_web_site_slider_2.png" />
     <Content Include="Assets\images\assets\ajax-loader.gif" />
     <Content Include="Assets\images\assets\error.gif" />
     <Content Include="Assets\images\assets\success.gif" />
