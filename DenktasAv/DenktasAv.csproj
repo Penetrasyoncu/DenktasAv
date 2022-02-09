@@ -443,7 +443,8 @@
     <Content Include="Views\Home\AreasOfExpertise.cshtml" />
     <Content Include="Views\Home\ContactForm.cshtml" />
     <Content Include="Views\Home\Blog.cshtml" />
-    <Content Include="Views\Home\Hizmetlerimiz.cshtml" />
+    <Content Include="Views\Home\pinarDenktasProfile.cshtml" />
+    <Content Include="Views\Home\Hizmetler.cshtml" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

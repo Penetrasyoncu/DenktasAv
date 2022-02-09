@@ -61,8 +61,14 @@ namespace DenktasAv.Controllers
             return View();
         }
 
+        [Route("pinar-denktas-profile")]
+        public ActionResult pinarDenktasProfile()
+        {
+            return View();
+        }
+
         [Route("hizmetlerimiz")]
-        public ActionResult Hizmetlerimiz()
+        public ActionResult Hizmetler()
         {
             return View();
         }
