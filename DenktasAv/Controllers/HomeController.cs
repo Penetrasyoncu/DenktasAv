@@ -7,7 +7,7 @@ using System.Web.Mvc;
 namespace DenktasAv.Controllers
 {
     public class HomeController : Controller
-    {        
+    {
         public ActionResult Index()
         {
             return View();
@@ -39,7 +39,7 @@ namespace DenktasAv.Controllers
 
         [Route("yazarin-yazilari")]
         public ActionResult WriterBlogs()
-        {            
+        {
             return View();
         }
 
@@ -55,7 +55,7 @@ namespace DenktasAv.Controllers
             return View();
         }
 
-        [Route("blog")]
+        [Route("makaleler")]
         public ActionResult Blog()
         {
             return View();
@@ -69,6 +69,54 @@ namespace DenktasAv.Controllers
 
         [Route("hizmetlerimiz")]
         public ActionResult Hizmetler()
+        {
+            return View();
+        }
+
+        [Route("aile-bosanma")]
+        public ActionResult HizmetAileBosanma()
+        {
+            return View();
+        }
+
+        [Route("miras")]
+        public ActionResult HizmetMiras()
+        {
+            return View();
+        }
+
+        [Route("arabulucuk")]
+        public ActionResult HizmetArabuluculuk()
+        {
+            return View();
+        }
+
+        [Route("yabancılar")]
+        public ActionResult HizmetYabancilar()
+        {
+            return View();
+        }
+
+        [Route("nisanin-bozulmasindan-kaynaklanan-davalar-maddi-tazminat-manevi-tazminat-hediyelerin-iadesi")]
+        public ActionResult MakaleNisanBozulmasi()
+        {
+            return View();
+        }
+
+        [Route("iki-yasindaki-kiz-cocugun-bosanan-anne-baba-ile-kisisel-iliskisi")]
+        public ActionResult MakaleKizCocugu()
+        {
+            return View();
+        }
+
+        [Route("bosanmada-maddi-ve-manevi-tazminat")]
+        public ActionResult MakaleTazminat()
+        {
+            return View();
+        }
+
+        [Route("ozel-hayat-alani-anayasa-mahkemesi")]
+        public ActionResult MakaleAykiri()
         {
             return View();
         }

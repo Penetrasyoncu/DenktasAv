@@ -225,11 +225,17 @@
     <Content Include="Assets\images\allimages\asli-logo-denktas_Yeni.png" />
     <Content Include="Assets\images\allimages\av-pinar-denktas.jpeg" />
     <Content Include="Assets\images\allimages\av_arb_pinar_denktas.png" />
+    <Content Include="Assets\images\allimages\av_arb_pinar_denktas_hukuk_burosu.jpg" />
     <Content Include="Assets\images\allimages\Background_Hizmet.jpg" />
+    <Content Include="Assets\images\allimages\beyza_petek.jpg" />
     <Content Include="Assets\images\allimages\blog-background.jpg" />
     <Content Include="Assets\images\allimages\denktas-logo-1.png" />
     <Content Include="Assets\images\allimages\denktas-logo-2.png" />
+    <Content Include="Assets\images\allimages\fatih_emre.jpg" />
+    <Content Include="Assets\images\allimages\imza_p_denktas.jpg" />
     <Content Include="Assets\images\allimages\logo-denktas.png" />
+    <Content Include="Assets\images\allimages\murvet_senem_cetin.jpg" />
+    <Content Include="Assets\images\allimages\pinar_denktas_web_site_slider_.jpg" />
     <Content Include="Assets\images\allimages\pinar_denktas_web_site_slider_.png" />
     <Content Include="Assets\images\allimages\Pinar_Denktas_web_site_slider_2.png" />
     <Content Include="Assets\images\assets\ajax-loader.gif" />
@@ -285,6 +291,7 @@
     <Content Include="Assets\images\patterns\pt7.png" />
     <Content Include="Assets\images\patterns\pt8.png" />
     <Content Include="Assets\images\patterns\pt9.png" />
+    <Content Include="Assets\images\PinarDenktas_Sertifikalar.png" />
     <Content Include="Assets\images\signature.png" />
     <Content Include="Assets\index.html" />
     <Content Include="Assets\js\bootstrap.js" />
@@ -452,6 +459,14 @@
     <Content Include="Views\Home\Blog.cshtml" />
     <Content Include="Views\Home\pinarDenktasProfile.cshtml" />
     <Content Include="Views\Home\Hizmetler.cshtml" />
+    <Content Include="Views\Home\HizmetAileBosanma.cshtml" />
+    <Content Include="Views\Home\HizmetMiras.cshtml" />
+    <Content Include="Views\Home\HizmetArabuluculuk.cshtml" />
+    <Content Include="Views\Home\HizmetYabancilar.cshtml" />
+    <Content Include="Views\Home\MakaleNisanBozulmasi.cshtml" />
+    <Content Include="Views\Home\MakaleKizCocugu.cshtml" />
+    <Content Include="Views\Home\MakaleTazminat.cshtml" />
+    <Content Include="Views\Home\MakaleAykiri.cshtml" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
