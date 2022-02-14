@@ -4787,4 +4787,12 @@ body {
     .hover:hover {
         color: #FFF !important;
         text-decoration: none;
+    }
+
+@media screen and (max-width: 480px) {
+    .tesst {
+        display: flex;
+        flex-flow: column;
+        flex-direction: column-reverse;
     }    
+}
