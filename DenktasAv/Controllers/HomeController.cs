@@ -31,9 +31,7 @@ namespace DenktasAv.Controllers
 
         [Route("pinar-denktas")]
         public ActionResult WriterProfile()
-        {
-            ViewBag.Message = "Your contact page.";
-
+        {            
             return View();
         }
 
